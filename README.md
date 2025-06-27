@@ -62,16 +62,6 @@ Each role provides different functionalities like managing attendance, resetting
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> Add screenshots of:
-> - Login portal
-> - Student attendance view
-> - Teacher attendance update interface
-> - Admin dashboard
-
----
-
 ## 🧑‍💻 How to Run
 
 1. **Clone this repository**
